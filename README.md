@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @RituSardiwal
-- 👀 I’m interested in ... Hacking
-- 🌱 I’m currently learning ... Hacking
-- 💞️ I’m looking to collaborate on ...Hacking 
-- 📫 How to reach me ...sardiwalteenu@gmail.com 
+
 
 <!---
 RituSardiwal/RituSardiwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
